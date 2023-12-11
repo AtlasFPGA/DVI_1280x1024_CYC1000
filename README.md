@@ -1,5 +1,7 @@
 # DVI_1280x1024_CYC1000
 
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
+
 Lo interesante de este ejercicio es que usa bloques gráficos en su construcción.
 
 Y también que usando dicha resolución de 1280x1024 el consumo en celdas logicas no llega 700Les.
